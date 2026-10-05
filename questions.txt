@@ -1,0 +1,30 @@
+Python kis liye use hoti hai? | AI, data science, web development, automation | 1
+Python AI ke liye kyun use hoti hai? | Simple syntax, big ecosystem of AI/ML libraries, community | 1
+Variable kya hota hai? | Named container that stores a value in memory | 1
+Dynamically typed ka kya matlab hai? | No need to declare type, Python infers it | 1
+Kya age aur Age same variable hain? | No, variable names are case-sensitive | 1
+Variable naam kis se shuru ho sakta hai? | Letter or underscore, not a digit | 1
+Variable names ke liye kaun si convention use hoti hai? | snake_case | 1
+Python ke core data types kaun se hain? | int, float, str, bool, NoneType | 1
+float kya hota hai? | Decimal number like 3.14 | 1
+NoneType kya dikhata hai? | No value, written as None | 1
+print() kya karta hai? | Displays output to the console | 1
+Comment kaise likhte hain? | Starts with #, Python ignores it | 1
+type() kis kaam aata hai? | Reveals the data type | 2
+f-string kya hai? | Modern way to build text with variables | 2
+input() kya return karta hai? | Always a string | 2
+Small example ka expected output kya hai? | Welcome to Day 1 of the AI Engineering course! and practice time lines | 2
+Practical ke liye kaun si folder aur files banani hain? | day01 folder with program1.py and program2.py | 2
+Personal Profile Card kya hai? | Program storing 4 variables plus boolean is_learning_ai, printed with f-strings | 3
+Program 1 mein kaun se 4 variables store karne hain? | name, age, city, favorite programming language | 3
+Program 1 ka bonus kya hai? | Use type() to print the data type of each variable | 3
+Program 2 kya karta hai? | Takes name and age with input() and calculates birth year | 3
+Program 2 mein current year kaun sa lena hai? | 2026 | 3
+Common beginner mistake kya hai? | Forgetting int(), subtracting a string from a number gives TypeError | 4
+Mini project ka naam aur script file kya hai? | My AI Journey, ai_journey.py | 4
+Mini project mein progress percentage kaise nikalte hain? | (course_day / total_days) * 100 rounded to 2 decimals | 4
+Pakistan ka capital kya hai? | none | none
+Python mein list aur dictionary mein kya farq hai? | none | none
+Day 5 mein kya parhaya jayega? | none | none
+PyTorch ka latest version kaun sa hai? | none | none
+Is course ki fees kitni hai? | none | none

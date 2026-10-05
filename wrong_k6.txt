@@ -1,0 +1,9 @@
+Python ke core data types kaun se hain? | bot: Python ke core data types ye hain:
+• int — whole numbers
+• float — decimal numbers
+• str — text
+input() kya return karta hai? | bot: I could not find this.
+Program 1 ka bonus kya hai? | bot: I could not find this.
+Program 2 kya karta hai? | bot: I could not find this.
+Common beginner mistake kya hai? | bot: I could not find this.
+Mini project ka naam aur script file kya hai? | bot: I could not find this.
